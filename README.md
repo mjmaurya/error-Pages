@@ -1,4 +1,9 @@
 # error-Pages
+[![GitHub forks](https://img.shields.io/github/forks/mjmaurya/error-Pages)](https://github.com/mjmaurya/error-Pages/network)
+[![GitHub forks](https://img.shields.io/github/forks/mjmaurya/error-Pages)](https://github.com/mjmaurya/error-Pages/network)
+[![GitHub stars](https://img.shields.io/github/stars/mjmaurya/error-Pages)](https://github.com/mjmaurya/error-Pages/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mjmaurya/error-Pages)](https://github.com/mjmaurya/error-Pages/blob/master/LICENSE)
+
 There is Many Error Pages
 
 #### This project is perfect for your first pull request
