@@ -1,0 +1,18 @@
+
+
+
+body, html{
+	background-image: url(https://miro.medium.com/max/1600/1*zE2qnVTJehut7B8P2aMn3A.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+	height: 100%;
+	margin: 0;
+}
+
+div{
+	text-align: center;
+	padding: 40%;
+	font-family: 'Piazzolla', serif;
+	font-weight: bold;
+}
